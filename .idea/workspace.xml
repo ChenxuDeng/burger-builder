@@ -1,8 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6db33c9f-9b14-4719-aa79-f200ecb9a6c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer/burgerbuilderreducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1U6MZjaHLR8dlIY4L5yNYzXKph2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../burger-pratice" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jimmy\WebstormProjects\burger-builder\src\hoc" />
+      <recent name="C:\Users\Jimmy\WebstormProjects\burger-builder\src\store\reducer" />
+      <recent name="C:\Users\Jimmy\WebstormProjects\burger-builder\src\store\action" />
+      <recent name="C:\Users\Jimmy\WebstormProjects\burger-builder\src\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6db33c9f-9b14-4719-aa79-f200ecb9a6c1" name="Default Changelist" comment="" />
+      <created>1574672649520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574672649520</updated>
+      <workItem from="1574672655497" duration="25066000" />
+      <workItem from="1574824946598" duration="253000" />
+      <workItem from="1575621506122" duration="21397000" />
+      <workItem from="1576393240112" duration="1023000" />
+      <workItem from="1576395488400" duration="6605000" />
+      <workItem from="1576577363727" duration="1670000" />
+      <workItem from="1576581541795" duration="7000" />
+      <workItem from="1578379148802" duration="1703000" />
+      <workItem from="1578456112876" duration="855000" />
+      <workItem from="1578476682787" duration="2009000" />
+      <workItem from="1578550295782" duration="3043000" />
+      <workItem from="1578624255603" duration="39000" />
+      <workItem from="1578630023345" duration="23000" />
+      <workItem from="1578630727767" duration="314000" />
+      <workItem from="1578631117553" duration="304000" />
+      <workItem from="1578631607237" duration="1587000" />
+      <workItem from="1578633466938" duration="10317000" />
+      <workItem from="1578796170736" duration="47000" />
+      <workItem from="1579056639023" duration="822000" />
+      <workItem from="1579057704885" duration="8451000" />
+      <workItem from="1579140779876" duration="642000" />
+      <workItem from="1579232094496" duration="12000" />
+      <workItem from="1582688882117" duration="3296000" />
+      <workItem from="1582702767510" duration="2901000" />
+      <workItem from="1582706509703" duration="1286000" />
+      <workItem from="1583050316298" duration="8055000" />
+      <workItem from="1583145021170" duration="2664000" />
+      <workItem from="1583378081082" duration="28381000" />
+      <workItem from="1584673254958" duration="693000" />
+      <workItem from="1584711453320" duration="28820000" />
+      <workItem from="1588418571199" duration="618000" />
+      <workItem from="1588421684166" duration="1276000" />
+      <workItem from="1589167149809" duration="87000" />
+      <workItem from="1589531468249" duration="32000" />
+      <workItem from="1589531783196" duration="3000" />
+      <workItem from="1589598207764" duration="11749000" />
+      <workItem from="1589949569948" duration="5760000" />
+      <workItem from="1590211086656" duration="26000" />
+      <workItem from="1590211141724" duration="11000" />
+      <workItem from="1591789972296" duration="1743000" />
+      <workItem from="1593229428984" duration="15000" />
+      <workItem from="1594092126949" duration="6263000" />
+      <workItem from="1595998501803" duration="14000" />
+      <workItem from="1598343476378" duration="357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="817" y="420" width="285" height="274" key="Github.ShareDialog" timestamp="1598343815576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="420" width="285" height="274" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598343815576" />
+    <state width="1882" height="272" key="GridCell.Tab.0.bottom" timestamp="1594111632147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594111632147" />
+    <state width="1882" height="272" key="GridCell.Tab.0.center" timestamp="1594111632146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594111632146" />
+    <state width="1882" height="272" key="GridCell.Tab.0.left" timestamp="1594111632146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594111632146" />
+    <state width="1882" height="272" key="GridCell.Tab.0.right" timestamp="1594111632147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594111632147" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598343759784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598343759784" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589949721664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589949721664" />
   </component>
 </project>

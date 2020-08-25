@@ -1,0 +1,14 @@
+.items{
+    display: block;
+    list-style: none;
+    padding: 0 5px;
+}
+
+@media (min-width: 500px) {
+    .items{
+        display: flex;
+        list-style: none;
+    }
+}
+
+

@@ -1,0 +1,28 @@
+.modal{
+    height: auto;
+    width: 95%;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid black;
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 500;
+    padding: 6px;
+    transition: transform 0.3s ease-out;
+}
+
+.open{
+    transform: translateY(0);
+}
+
+.close{
+    transform: translateY(-100vh);
+}
+
+@media (min-width: 600px) {
+    .modal {
+        width: 500px;
+        left: calc(50% - 250px);
+    }
+}

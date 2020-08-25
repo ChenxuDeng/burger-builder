@@ -1,0 +1,18 @@
+.format{
+    display: block;
+    margin: 0 auto;
+}
+
+.border{
+    height: auto;
+    width: 30%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
